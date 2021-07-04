@@ -1,0 +1,89 @@
+{
+	"Employees": {
+		"Tel Aviv": [
+			{
+				"Account": "613-123123",
+				"Telephone": "0545111111",
+				"Work Id": "11111",
+				"Position": "Manager",
+				"First Name": "Bob",
+				"Id": "1",
+				"Last Name": "Marley"
+			},
+			{
+				"Account": "613-122122",
+				"Telephone": "0545222222",
+				"Work Id": "22222",
+				"Position": "Seller",
+				"First Name": "Kobi",
+				"Id": "2",
+				"Last Name": "Peretz"
+			},
+			{
+				"Account": "613-121121",
+				"Telephone": "0545333333",
+				"Work Id": "33333",
+				"Position": "Cashier",
+				"First Name": "Benjamin",
+				"Id": "3",
+				"Last Name": "Netanyahu"
+			},
+			{
+				"Account": "613-120120",
+				"Telephone": "0545444444",
+				"Work Id": "44444",
+				"Position": "Seller",
+				"First Name": "Sergey",
+				"Id": "4",
+				"Last Name": "Brin"
+			},
+			{
+				"Account": "217-89080",
+				"Telephone": "03-2223333",
+				"Work Id": "55555",
+				"Position": "Seller",
+				"First Name": "Bob",
+				"Id": "5",
+				"Last Name": "Dylan"
+			}
+		],
+		"Jerusalem": [
+			{
+				"Account": "613-130130",
+				"Telephone": "0544888888",
+				"Work Id": "88888",
+				"Position": "Manager",
+				"First Name": "Jimmy",
+				"Id": "16",
+				"Last Name": "Page"
+			},
+			{
+				"Account": "613-215215",
+				"Telephone": "0544111111",
+				"Work Id": "66666",
+				"Position": "Seller",
+				"First Name": "Avigdor",
+				"Id": "17",
+				"Last Name": "Liberman"
+			},
+			{
+				"Account": "613-200200",
+				"Telephone": "0544222222",
+				"Work Id": "77777",
+				"Position": "Cashier",
+				"First Name": "Pamela",
+				"Id": "6",
+				"Last Name": "Anderson"
+			},
+			{
+				"Account": "613-303303",
+				"Telephone": "0544444444",
+				"Work Id": "121212",
+				"Position": "Seller",
+				"First Name": "Jim",
+				"Id": "12",
+				"Last Name": "Carrey"
+			}
+		]
+	}
+}

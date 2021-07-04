@@ -1,0 +1,88 @@
+{
+	"Buyers": {
+		"New": [
+			{
+				"Telephone": "0521232232",
+				"First Name": "Sara",
+				"Id": "611123",
+				"Last Name": "Netanyahu"
+			},
+			{
+				"Telephone": "054889877",
+				"First Name": "Amir",
+				"Id": "22332233",
+				"Last Name": "Peretz"
+			},
+			{
+				"Telephone": "0525666555",
+				"First Name": "George",
+				"Id": "120003",
+				"Last Name": "Bush"
+			},
+			{
+				"Telephone": "0501818181",
+				"First Name": "Pnina",
+				"Id": "12312",
+				"Last Name": "Rozenblum"
+			}
+		],
+		"Returned": [
+			{
+				"Telephone": "036481478",
+				"First Name": "Vladimir",
+				"Id": "6366612",
+				"Last Name": "Putin"
+			},
+			{
+				"Telephone": "1700800800",
+				"First Name": "Barak",
+				"Id": "9998811",
+				"Last Name": "Obama"
+			},
+			{
+				"Telephone": "036152222",
+				"First Name": "Britney",
+				"Id": "565689",
+				"Last Name": "Spears"
+			},
+			{
+				"Telephone": "0522899899",
+				"First Name": "Edward",
+				"Id": "11122281",
+				"Last Name": "Snowden"
+			}
+		],
+		"Vip": [
+			{
+				"Telephone": "089895656",
+				"First Name": "Donald",
+				"Id": "115115115",
+				"Last Name": "Trump"
+			},
+			{
+				"Telephone": "045652233",
+				"First Name": "Elon",
+				"Id": "3332323",
+				"Last Name": "Musk"
+			},
+			{
+				"Telephone": "0558123123",
+				"First Name": "Angelina",
+				"Id": "02323589",
+				"Last Name": "Jolie"
+			},
+			{
+				"Telephone": "036661212",
+				"First Name": "Yair",
+				"Id": "01112202",
+				"Last Name": "Lapid"
+			},
+			{
+				"Telephone": "0501454555",
+				"First Name": "Scarlett",
+				"Id": "4747478",
+				"Last Name": "Johansson"
+			}
+		]
+	}
+}

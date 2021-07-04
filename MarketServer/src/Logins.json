@@ -1,0 +1,62 @@
+{
+	"Logins": {
+		"Admins": [
+			{
+				"Work Id": "88888",
+				"Branch": "Jerusalem",
+				"Person": "Jimmy Page",
+				"Password": "zeppelin"
+			},
+			{
+				"Work Id": "11111",
+				"Branch": "Tel Aviv",
+				"Person": "Bob Marley",
+				"Password": "maryjane"
+			}
+		],
+		"Users": [
+			{
+				"Work Id": "33333",
+				"Branch": "Tel Aviv",
+				"Person": "Benjamin Netanyahu",
+				"Password": "likud"
+			},
+			{
+				"Work Id": "121212",
+				"Branch": "Jerusalem",
+				"Person": "Jim Carrey",
+				"Password": "mask"
+			},
+			{
+				"Work Id": "55555",
+				"Branch": "Tel Aviv",
+				"Person": "Bob Dylan",
+				"Password": "peace"
+			},
+			{
+				"Work Id": "44444",
+				"Branch": "Tel Aviv",
+				"Person": "Sergey Brin",
+				"Password": "google"
+			},
+			{
+				"Work Id": "22222",
+				"Branch": "Tel Aviv",
+				"Person": "Kobi Peretz",
+				"Password": "prison"
+			},
+			{
+				"Work Id": "66666",
+				"Branch": "Jerusalem",
+				"Person": "Avigdor Liberman",
+				"Password": "oleole"
+			},
+			{
+				"Work Id": "77777",
+				"Branch": "Jerusalem",
+				"Person": "Pamela Anderson",
+				"Password": "malibu"
+			}
+		]
+	}
+}
